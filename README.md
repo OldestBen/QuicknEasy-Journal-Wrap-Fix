@@ -21,15 +21,14 @@ Scripts
   Clone the repository to your local machine:
 
  
-
-`git clone https://github.com/OldestBen/QuicknEasy-Journal-Wrap-Fix.git`
-
+```
+git clone https://github.com/OldestBen/QuicknEasy-Journal-Wrap-Fix.git
+```
 Navigate to the repository directory:
 
-
-
-    cd QuicknEasy-Journal-Wrap-Fix
-
+```
+cd QuicknEasy-Journal-Wrap-Fix
+```
 Usage
 Authoritative Restore
 
@@ -38,9 +37,10 @@ Use the authoritative restore script if you want to forcefully update all other 
   Open PowerShell with administrative privileges.
   Run the authoritative restore script:
 
-    
 
-    .\Journal Wrap Authoritative Restore.ps1
+```
+.\Journal Wrap Authoritative Restore.ps1
+```
 
   Follow the on-screen prompts to complete the process.
 
@@ -51,7 +51,7 @@ Use the non-authoritative restore script if you want the restored domain control
   Open PowerShell with administrative privileges.
   Run the non-authoritative restore script:
 
-
-`.\Journal Wrap Nonauthoritative Restore.ps1`
-
+```
+.\Journal Wrap Nonauthoritative Restore.ps1
+```
 Follow the on-screen prompts to complete the process.
