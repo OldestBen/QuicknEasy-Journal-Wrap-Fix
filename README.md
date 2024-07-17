@@ -29,7 +29,8 @@ Navigate to the repository directory:
 ```
 cd QuicknEasy-Journal-Wrap-Fix
 ```
-Usage
+## Usage
+
 Authoritative Restore
 
 Use the authoritative restore script if you want to forcefully update all other domain controllers with the state of the restored domain controller.
