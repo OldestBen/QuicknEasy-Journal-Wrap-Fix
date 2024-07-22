@@ -56,3 +56,8 @@ Use the non-authoritative restore script if you want the restored domain control
 .\Journal Wrap Nonauthoritative Restore.ps1
 ```
 Follow the on-screen prompts to complete the process.
+
+
+## License
+
+This project is licensed under the AGPL-3.0 License - see the LICENSE.md file for details.
